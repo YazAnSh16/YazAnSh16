@@ -43,8 +43,8 @@ Here are a few projects I’ve worked on:
 ---
 
 ## 📫 Connect with me
-- [GitHub](https://github.com/your-username)
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- [GitHub](https://github.com/YazAnSh16)
+- [LinkedIn](https://www.linkedin.com/in/yazan-sh-625123245)
 <!--
 **YazAnSh16/YazAnSh16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
