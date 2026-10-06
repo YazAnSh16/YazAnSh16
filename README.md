@@ -1,4 +1,4 @@
-# Hi there, I'm Yazan Sh 👋
+# Hi there, I'm Yazan Shehada 👋
 
 I'm a passionate web developer with experience in building full-stack applications using **.NET**, **MVC**, **Web API**, and front-end technologies. I enjoy creating projects that are both functional and efficient, and I'm always exploring new ways to improve my skills.
 
